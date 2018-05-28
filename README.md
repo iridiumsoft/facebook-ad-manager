@@ -1,9 +1,8 @@
-
+## Facebook Ad Manager
 Simple Python REST API for Facebook Ads CRUD operations. We use mongodb for user authentication, but you can user your own
 
-#### .env Example
 
-Simple Python REST API for Facebook Ads CRUD operations. We use mongodb for user authentication, but you can user your own
+##### .env Example
 
 ```APP_PORT=500 DEBUG=True
 
